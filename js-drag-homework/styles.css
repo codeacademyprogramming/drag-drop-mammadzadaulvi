@@ -1,0 +1,16 @@
+  .main{
+    display: flex;
+  }
+  
+  .container {
+    padding: 1rem;
+    margin-top: 1rem;
+  }
+  
+  .draggable {
+    width: 400px;
+    padding: 1rem;
+    background-color: rgb(35, 18, 187);
+    border: 1px solid black;
+    cursor: move;
+  }
